@@ -1,1 +1,1 @@
-# BookstoreProject
+# mern-stack
